@@ -1,2 +1,2 @@
 !!# badge-collecting
-we gonna catch em all!!
+we gonna catch em all!
